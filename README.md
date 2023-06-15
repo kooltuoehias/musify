@@ -45,3 +45,6 @@ http_server_requests_seconds_count{application="musify",error="none",exception="
 
 ## In case more time is given
 - Definitely circuit breaker, on redis and/or on one of the third parity websites.
+
+## Demo GiF
+![Animation](https://github.com/kooltuoehias/musify/assets/127164230/378f934c-dbc7-4c4e-9969-5250dfa10b93)
